@@ -28,7 +28,6 @@
                             <constraint firstItem="2s6-4t-TrY" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.0870536" id="B5p-8T-wMn"/>
                             <constraint firstItem="2s6-4t-TrY" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="P4h-dd-kkZ"/>
                             <constraint firstItem="2s6-4t-TrY" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="Xga-JY-Q32"/>
-                            <constraint firstItem="2s6-4t-TrY" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.359903" id="dzi-M1-S2e"/>
                         </constraints>
                     </view>
                 </viewController>
